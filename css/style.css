@@ -61,7 +61,11 @@ body {
   line-height: 1.5;
   color: #818491;
   text-align: left;
-  background-color: #FFFFFF;
+  background-image: url("../img/body-bg2.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-color: #274292;
   overflow-x: hidden;
 }
 

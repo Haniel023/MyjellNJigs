@@ -9798,7 +9798,20 @@ a.text-dark:hover, a.text-dark:focus {
               height: 350px; /* Adjust the height for large screens */
           }
       }
-              /* Hide the default audio player controls */
-              audio {
-                display: none;
-            }
+      .timer-box {
+        text-align: center;
+        color: white;
+    }
+    
+    .timer-number {
+        font-size: 36px; /* Adjust the font size as needed */
+        margin-bottom: 5px;
+    }
+    
+    .timer-label {
+        font-size: 18px; /* Adjust the font size as needed */
+    }
+
+    .smaller-picture {
+      max-width: 400px; /* Adjust the max-width as needed to make the picture smaller */
+  }
